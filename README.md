@@ -10,8 +10,8 @@ suiting captures at very high speeds (more than 10Gpbs).
 ### Build status
 | Branch  | Status |
 |---|---|
-| Master | [![Build Status](https://api.travis-ci.org/dpdkcap/dpdkcap.svg?branch=master)](https://travis-ci.org/dpdkcap/dpdkcap) |
-| Develop | [![Build Status](https://api.travis-ci.org/dpdkcap/dpdkcap.svg?branch=develop)](https://travis-ci.org/dpdkcap/dpdkcap) |
+| Master | [![Build Status](https://travis-ci.org/wriaz/dpdkcap.svg?branch=master)](https://travis-ci.org/wriaz/dpdkcap) |
+| Develop | [![Build Status](https://api.travis-ci.org/wriaz/dpdkcap.svg?branch=develop)](https://travis-ci.org/wriaz/dpdkcap) |
 
 ## 1. Installation and platform configuration
 
